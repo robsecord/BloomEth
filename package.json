@@ -30,7 +30,7 @@
     "@truffle/hdwallet-provider": "^1.0.35",
     "dotenv": "^8.0.0",
     "ganache-cli": "^6.9.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "multi-token-standard": "^0.8.9",
     "web3": "^1.2.7"
   }
